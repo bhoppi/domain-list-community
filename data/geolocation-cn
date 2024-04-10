@@ -146,6 +146,7 @@ klpbbs.com # 苦力怕论坛
 mcbbs.net # MCBBS论坛
 uiwow.com # 魔兽有爱论坛
 right.com.cn # 恩山论坛
+pcbeta.com # 远景论坛
 
 # Fofa网站测绘
 fofa.info
@@ -287,6 +288,9 @@ tower.im
 # 沃丰科技
 udesk.cn
 
+# xEdge 苏州星汉云联网络技术有限公司 苏ICP备2022017953号-1
+xedge.cc
+
 # Social Media
 include:category-social-media-cn
 
@@ -396,6 +400,11 @@ include:bjyouth
 include:sumkoo
 ## 知藏（北京）数据技术有限公司 (京ICP备19038827号)
 zzdtec.com
+
+# 祐全科技
+include:youquan
+# 叮哒出行(杭州金通互联科技有限公司)
+include:dingdatech
 
 
 # The following domains are carried over from geosite:cn.
@@ -1102,7 +1111,6 @@ p5w.net
 paipaibang.com
 paopaoche.net
 pc6.com
-pcbeta.com
 pchome.net
 pcpop.com
 peccn.com
@@ -1497,3 +1505,8 @@ dancf.com
 
 # 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
 kujiale.com
+
+# 文叔叔 成都字节星云科技有限公司 蜀ICP备19024011号
+wss.zone
+
+hisensehitachi.com #海信日立官网
